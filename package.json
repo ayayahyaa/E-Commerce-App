@@ -2,9 +2,7 @@
   "name": "@elevate-e-commerce-app/source",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {
-    "build": "nx build elevate-e-commerce-app"
-  },
+  "scripts": {},
   "private": true,
   "dependencies": {
     "@angular/animations": "19.2.14",
